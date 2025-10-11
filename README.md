@@ -19,7 +19,6 @@ This repository contains the complete documentation, **LTspice simulation files*
 2.  Optimize efficiency across a dynamic load range.
 3.  Minimize switching noise and transients via a custom-designed **RC Snubber**.
 
----
 
 **Design Specifications:**
 
@@ -33,13 +32,13 @@ This repository contains the complete documentation, **LTspice simulation files*
 
 
 
-| Parameter | Value | Notes |
-| :--- | :--- | :--- |
-| **Input Voltage** ($V_{in}$) | $5 V$ | Base supply voltage |
-| **Output Voltage** ($V_{o}$) | $10 V$ | Target voltage regulated via duty cycle |
-| **Switching Frequency** ($f_{sw}$) | $25 kHz$ | Operating frequency in Continuous Conduction Mode (CCM) |
-| **Inductance** ($L$) | $150 \ \mu H$ | Ensures CCM |
-| **Output Current Range** ($I_{out}$) | $0 A - 0.9 A$ | Dynamic load conditions |
+| Parameter                            | Value         | Notes                                                   |
+| :----------------------------------- | :------------ | :------------------------------------------------------ |
+| **Input Voltage** ($V_{in}$)         | $5 V$         | Base supply voltage                                     |
+| **Output Voltage** ($V_{o}$)         | $10 V$        | Target voltage regulated via duty cycle                 |
+| **Switching Frequency** ($f_{sw}$)   | $25 kHz$      | Operating frequency in Continuous Conduction Mode (CCM) |
+| **Inductance** ($L$)                 | $150 \ \mu H$ | Ensures CCM                                             |
+| **Output Current Range** ($I_{out}$) | $0 A - 0.9 A$ | Dynamic load conditions                                 |
 
 
 

@@ -13,7 +13,7 @@
 
 This repository contains the complete documentation, **LTspice simulation files**, and analysis for a **DC-DC Boost Converter** project. The work covers the full development cycle: from **theoretical sizing** to **simulation** and **practical implementation** on a breadboard.
 
-## Project Objectives
+**Project Objectives**
 
 1.  Regulate an input voltage of **$V_{in} = 5 V$** to a stable output voltage of **$V_{o} = 10 V$**.
 2.  Optimize efficiency across a dynamic load range.
@@ -32,10 +32,6 @@ This repository contains the complete documentation, **LTspice simulation files*
 | Output Current Range (I_\mathrm{out}) | (\SI{0}{\ampere} - \SI{0.9}{\ampere}) | Dynamic load conditions                  |
 
 
-
-
-
-## Design Specifications
 
 | Parameter | Value | Notes |
 | :--- | :--- | :--- |

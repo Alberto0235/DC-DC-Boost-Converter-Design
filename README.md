@@ -75,18 +75,18 @@ Efficiency ($E_{ff}$) was measured across the output current range. **Results:**
 * **Efficiency Drop:** Observed at high loads ($I_{out} \approx 0.9 A$) due to conduction and switching losses.
 
 
-<img width="2935" height="2040" alt="Eff-Io" src="https://github.com/user-attachments/assets/689a70c9-9865-4ff3-accc-e668cd32789f" />
-<img width="2127" height="402" alt="Data duty 50" src="https://github.com/user-attachments/assets/af9c96c3-5a1f-453a-af55-dacaefc433f3" />
-
+<img width="2136" height="406" alt="Data duty fixed" src="https://github.com/user-attachments/assets/0cb97135-18c4-4d57-86c6-4d941e4f02a5" />
 
 
 ### Signal Integrity and RC Snubber Efficacy
 
-The RC Snubber ((R_\mathrm{SNB} = \SI{16}{\ohm}, C_\mathrm{SNB} = \SI{0.66}{\nano\farad})) effectively reduced ringing on the switching node.
+The RC Snubber ($R_{SNB} = 16 \ \Omega$, $C_{SNB} = 0.66 \ nF$) effectively reduced ringing on the switching node.
 
-![Oscilloscope Capture Placeholder](https://via.placeholder.com/600x400?text=Oscilloscope+Signals)
 
-Signals measured: Input voltage (V_\mathrm{in}), Output voltage (V_\mathrm{o}), Switching node voltage, MOSFET gate drive.
+![Signals zoom out](https://github.com/user-attachments/assets/ac16af6a-6ba7-4589-add7-7f3c5b65e1f7)
+
+
+Signals measured: Input voltage ($V_{in}$), Output voltage ($V_{o}$), Switching node voltage, MOSFET gate drive.
 
 ---
 

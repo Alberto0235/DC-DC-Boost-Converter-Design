@@ -69,9 +69,9 @@ The final circuit was assembled on a breadboard. Special attention was given to 
 
 ### Efficiency Analysis
 
-Efficiency ($E_{ff}$) was measured across the output current range. **Results:**
+Efficiency ($E_{ff}) was measured across the output current range. **Results:**
 
-* **Peak Efficiency:** $E_{ff} \approx 90.9\% at $I_{out} = 0.2 A$.
+* **Peak Efficiency:** $E_{ff} ≈ 90.9\% at $I_{out} = 0.2 A$.
 * **Efficiency Drop:** Observed at high loads ($I_{out} \approx 0.9 A$) due to conduction and switching losses.
 
 

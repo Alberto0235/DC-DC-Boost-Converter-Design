@@ -95,16 +95,16 @@ Signals measured: Input voltage ($V_{in}$), Output voltage ($V_{o}$), Switching 
 ```
 Boost-Converter-Project/
 │
-├─ Boost_Converter_Project_Report.pdf   # Final technical report
-├─ LICENSE                             # MIT License
-├─ README.md                           # This file
-├─ simulations/
-│   ├─ boostconverter.asc              # Nominal Boost Converter schematic
-│   ├─ boostconverterwithsnapper.asc   # Boost Converter with RC Snubber
-│   └─ components/
-│       ├─ diode.lib
-│       ├─ mosfet.lib
-│       └─ passive_components.txt
+├─ Boost_Converter_Project_Report.pdf      # Final technical report
+├─ LICENSE                                 # MIT License
+├─ README.md                               # This file
+├─ Simulations/
+│   ├─ Boost_Converter.asc                 # Nominal Boost Converter schematic
+│   ├─ Boost_Converter_With_Snubber.asc    # Boost Converter with RC Snubber
+│   └─ Components/
+│       ├─ 1400series.lib
+│       ├─ MBR760.txt
+│       └─ stp16nf06l.lib
 ```
 
 * `boostconverter.asc` → Base circuit for sizing and CCM verification

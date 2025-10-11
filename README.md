@@ -107,9 +107,9 @@ Boost-Converter-Project/
 │       └─ stp16nf06l.lib
 ```
 
-* `boostconverter.asc` → Base circuit for sizing and CCM verification
-* `boostconverterwithsnapper.asc` → Includes RC Snubber for transient suppression
-* `components/` → Custom library files for non-ideal component modeling
+* `Boost_Converter.asc` → Base circuit for sizing and CCM verification
+* `Boost_Converter_With_Snubber.asc` → Includes RC Snubber for transient suppression
+* `Components/` → Custom library files for non-ideal component modeling
 
 ---
 

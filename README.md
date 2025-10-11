@@ -87,10 +87,10 @@ The RC Snubber ($R_{SNB} = 16 \ \Omega$, $C_{SNB} = 0.66 \ nF$) effectively redu
 
 
 Signals measured (as shown in the oscilloscope capture above):  
-- **Input Voltage**: <span style="color:purple;">V<sub>in</sub></span> (purple)  
-- **Output Voltage**: <span style="color:gold;">V<sub>o</sub></span> (yellow)  
-- **Switching Node Voltage**: <span style="color:deepskyblue;">V<sub>sw</sub></span> (cyan/light blue)  
-- **MOSFET Gate Drive**: <span style="color:blue;">V<sub>gate</sub></span> (blue)
+- **Input Voltage**: <span style="color:purple;">($V_{in}$) (purple)  
+- **Output Voltage**: <span style="color:gold;">($V_{o}$) (yellow)  
+- **Switching Node Voltage**: <span style="color:deepskyblue;">($V_{sw}$) (cyan/light blue)  
+- **MOSFET Gate Drive**: <span style="color:blue;">($V_{gate}$) (blue)
 
 Signals measured: Input voltage ($V_{in}$), Output voltage ($V_{o}$), Switching node voltage, MOSFET gate drive.
 

@@ -96,7 +96,7 @@ Signals measured (as shown in the oscilloscope capture above):
 ## 🗂️ Repository Structure
 
 ```
-Boost-Converter-Project/
+DC-DC-Boost-Converter-Design/
 │
 ├─ Boost_Converter_Project_Report.pdf      # Final technical report
 ├─ LICENSE                                 # MIT License

@@ -13,11 +13,13 @@
 
 This repository contains the complete documentation, **LTspice simulation files**, and analysis for a **DC-DC Boost Converter** project. The work covers the full development cycle: from **theoretical sizing** to **simulation** and **practical implementation** on a breadboard.
 
-**Project Objectives:**
+## Project Objectives
 
-1. Regulate an input voltage of (V_\mathrm{in} = \SI{5}{\volt}) to a stable output voltage of (V_\mathrm{o} = \SI{10}{\volt}).
-2. Optimize efficiency across a dynamic load range.
-3. Minimize switching noise and transients via a custom-designed **RC Snubber**.
+1.  Regulate an input voltage of **$V_{in} = 5 V$** to a stable output voltage of **$V_{o} = 10 V$**.
+2.  Optimize efficiency across a dynamic load range.
+3.  Minimize switching noise and transients via a custom-designed **RC Snubber**.
+
+---
 
 **Design Specifications:**
 
@@ -28,6 +30,24 @@ This repository contains the complete documentation, **LTspice simulation files*
 | Switching Frequency (f_\mathrm{sw})   | (\SI{25}{\kilo\hertz})                | Operating frequency in CCM               |
 | Inductance (L)                        | (\SI{150}{\micro\henry})              | Ensures Continuous Conduction Mode (CCM) |
 | Output Current Range (I_\mathrm{out}) | (\SI{0}{\ampere} - \SI{0.9}{\ampere}) | Dynamic load conditions                  |
+
+
+
+
+
+## Design Specifications
+
+| Parameter | Value | Notes |
+| :--- | :--- | :--- |
+| **Input Voltage** ($V_{in}$) | $5 V$ | Base supply voltage |
+| **Output Voltage** ($V_{o}$) | $10 V$ | Target voltage regulated via duty cycle |
+| **Switching Frequency** ($f_{sw}$) | $25 kHz$ | Operating frequency in Continuous Conduction Mode (CCM) |
+| **Inductance** ($L$) | $150 \ \mu H$ | Ensures CCM |
+| **Output Current Range** ($I_{out}$) | $0 A - 0.9 A$ | Dynamic load conditions |
+
+
+
+
 
 The full laboratory report with calculations and analysis can be found here:
 ➡️ **[Download Boost Converter Project Report (EN)](Boost_Converter_Project_Report.pdf)**

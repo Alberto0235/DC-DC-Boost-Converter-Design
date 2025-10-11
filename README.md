@@ -74,7 +74,7 @@ Efficiency ($E_{ff}$) was measured across the output current range. **Results:**
 * **Efficiency Drop:** Observed at high loads ($I_{out} \approx 0.9 A$) due to conduction and switching losses.
 
 
-![Measured Data Table](Measured_Data_Table.png)
+![Measured Data Table](Images/Measured_Data_Table.png)
 
 
 ### Signal Integrity and RC Snubber Efficacy
@@ -82,7 +82,7 @@ Efficiency ($E_{ff}$) was measured across the output current range. **Results:**
 The RC Snubber ($R_{SNB} = 16 \ \Omega$, $C_{SNB} = 0.66 \ nF$) effectively reduced ringing on the switching node.
 
 
-![Oscilloscope Signals](Oscilloscope_Signals.jpg)
+![Oscilloscope Signals](Images/Oscilloscope_Signals.jpg)
 
 
 Signals measured (as shown in the oscilloscope capture above):  

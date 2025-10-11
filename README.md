@@ -69,12 +69,16 @@ The final circuit was assembled on a breadboard. Special attention was given to 
 
 ### Efficiency Analysis
 
-Efficiency (E_\mathrm{ff}) was measured across the output current range. Results:
+Efficiency ($E_{ff}$) was measured across the output current range. **Results:**
 
-* **Peak Efficiency:** (E_\mathrm{ff} \approx 90.9%) at (I_\mathrm{out} = \SI{0.2}{\ampere})
-* **Efficiency Drop:** Observed at high loads ((I_\mathrm{out} \approx \SI{0.9}{\ampere})) due to conduction and switching losses.
+* **Peak Efficiency:** $E_{ff} \approx 90.9\%$ at $I_{out} = 0.2 A$.
+* **Efficiency Drop:** Observed at high loads ($I_{out} \approx 0.9 A$) due to conduction and switching losses.
 
-![Efficiency vs Output Current Placeholder](https://via.placeholder.com/600x400?text=Efficiency+vs+Iout)
+
+<img width="2935" height="2040" alt="Eff-Io" src="https://github.com/user-attachments/assets/689a70c9-9865-4ff3-accc-e668cd32789f" />
+<img width="2127" height="402" alt="Data duty 50" src="https://github.com/user-attachments/assets/af9c96c3-5a1f-453a-af55-dacaefc433f3" />
+
+
 
 ### Signal Integrity and RC Snubber Efficacy
 

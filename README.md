@@ -41,12 +41,7 @@ The full laboratory report with calculations and analysis can be found here:
 The following professional instruments were employed for circuit testing and characterization:
 
 
-
-
 ![Equipment](https://github.com/user-attachments/assets/6fc4b627-11d3-4b46-b8af-b71e37f9eefd)
-
-
-
 
 
 * **Bench Power Supply:** Provides stable input voltage.
@@ -66,6 +61,11 @@ The following professional instruments were employed for circuit testing and cha
 ### Circuit Assembly and Probing
 
 The final circuit was assembled on a breadboard. Special attention was given to **probe placement** and minimizing parasitic inductances on the switching node.
+
+
+![Circuit on breadboard](https://github.com/user-attachments/assets/defd7ef7-d612-4425-9ebd-276aa2fae615)
+
+
 
 ### Efficiency Analysis
 

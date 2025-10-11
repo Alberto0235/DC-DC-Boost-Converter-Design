@@ -71,7 +71,7 @@ The final circuit was assembled on a breadboard. Special attention was given to 
 
 Efficiency (E_\mathrm{ff}) was measured across the output current range. Results:
 
-* **Peak Efficiency:** (E_\mathrm{ff} \approx 87%) at (I_\mathrm{out} = \SI{0.2}{\ampere})
+* **Peak Efficiency:** (E_\mathrm{ff} \approx 90.9%) at (I_\mathrm{out} = \SI{0.2}{\ampere})
 * **Efficiency Drop:** Observed at high loads ((I_\mathrm{out} \approx \SI{0.9}{\ampere})) due to conduction and switching losses.
 
 ![Efficiency vs Output Current Placeholder](https://via.placeholder.com/600x400?text=Efficiency+vs+Iout)

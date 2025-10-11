@@ -41,7 +41,16 @@ The full laboratory report with calculations and analysis can be found here:
 The following professional instruments were employed for circuit testing and characterization:
 
 ![Tools Placeholder](https://via.placeholder.com/600x300?text=Laboratory+Instruments)
-*Example: Oscilloscope, Function Generator, Bench Power Supply, Electronic Load*
+*Example: Oscillo![Equipment](https://github.com/user-attachments/assets/b878f463-a18f-4ada-8887-8da5707da355)
+scope, Function Generator, Bench Power Supply, Electronic Load*
+
+
+
+![Uploading Equipment.jpg…]()
+
+
+
+
 
 * **Bench Power Supply:** Provides stable input voltage.
 * **Function Generator:** Generates MOSFET gate drive signals.
@@ -50,8 +59,8 @@ The following professional instruments were employed for circuit testing and cha
 
 ### Software
 
-* **LTspice XVII:** For component sizing, simulation, and snubber analysis.
-* **LaTeX / Siunitx:** For professional technical report preparation.
+* **LTspice:** For component sizing, simulation, and snubber analysis.
+* **LaTeX:** For professional technical report preparation.
 
 ---
 

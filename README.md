@@ -3,9 +3,9 @@
 
 # ⚡ DC-DC Boost Converter: Design, Simulation, and Implementation
 
-**Course:** Power Electronics Laboratory
-**University:** Alma Mater Studiorum – University of Bologna (Cesena Campus)
-**Academic Year:** 2023/2024
+**Course:** Power Electronics Laboratory  
+**University:** Alma Mater Studiorum – University of Bologna (Cesena Campus)  
+**Academic Year:** 2023/2024  
 
 ---
 

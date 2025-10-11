@@ -92,8 +92,6 @@ Signals measured (as shown in the oscilloscope capture above):
 - **Switching Node Voltage**: <span style="color:deepskyblue;">($V_{sw}$) (cyan/light blue)  
 - **MOSFET Gate Drive**: <span style="color:blue;">($V_{gate}$) (blue)
 
-Signals measured: Input voltage ($V_{in}$), Output voltage ($V_{o}$), Switching node voltage, MOSFET gate drive.
-
 ---
 
 ## 🗂️ Repository Structure

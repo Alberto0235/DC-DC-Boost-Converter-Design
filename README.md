@@ -40,9 +40,6 @@ The full laboratory report with calculations and analysis can be found here:
 
 The following professional instruments were employed for circuit testing and characterization:
 
-![Tools Placeholder](https://via.placeholder.com/600x300?text=Laboratory+Instruments)
-*Example: Oscillo![Equipment](https://github.com/user-attachments/assets/b878f463-a18f-4ada-8887-8da5707da355)
-scope, Function Generator, Bench Power Supply, Electronic Load*
 
 
 

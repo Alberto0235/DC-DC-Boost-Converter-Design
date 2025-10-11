@@ -41,7 +41,6 @@ The full laboratory report with calculations and analysis can be found here:
 The following professional instruments were employed for circuit testing and characterization:
 
 
-![Equipment](https://github.com/user-attachments/assets/6fc4b627-11d3-4b46-b8af-b71e37f9eefd)
 ![Laboratory_Instrumentation](Images/Laboratory_Instrumentation.jpg)
 
 
@@ -64,8 +63,7 @@ The following professional instruments were employed for circuit testing and cha
 The final circuit was assembled on a breadboard. Special attention was given to **probe placement** and minimizing parasitic inductances on the switching node.
 
 
-![Circuit on breadboard](https://github.com/user-attachments/assets/defd7ef7-d612-4425-9ebd-276aa2fae615)
-
+![Circuit on breadboard](Images/Circuit_on_Breadboard.jpg)
 
 
 ### Efficiency Analysis
@@ -76,7 +74,7 @@ Efficiency ($E_{ff}$) was measured across the output current range. **Results:**
 * **Efficiency Drop:** Observed at high loads ($I_{out} \approx 0.9 A$) due to conduction and switching losses.
 
 
-<img width="2136" height="406" alt="Data duty fixed" src="https://github.com/user-attachments/assets/0cb97135-18c4-4d57-86c6-4d941e4f02a5" />
+![Measured Data Table](Measured_Data_Table.png)
 
 
 ### Signal Integrity and RC Snubber Efficacy
@@ -84,7 +82,7 @@ Efficiency ($E_{ff}$) was measured across the output current range. **Results:**
 The RC Snubber ($R_{SNB} = 16 \ \Omega$, $C_{SNB} = 0.66 \ nF$) effectively reduced ringing on the switching node.
 
 
-![Signals zoom out](https://github.com/user-attachments/assets/ac16af6a-6ba7-4589-add7-7f3c5b65e1f7)
+![Oscilloscope Signals](Oscilloscope_Signals.jpg)
 
 
 Signals measured (as shown in the oscilloscope capture above):  
@@ -110,6 +108,11 @@ Boost-Converter-Project/
 │       ├─ 1400series.lib
 │       ├─ MBR760.txt
 │       └─ stp16nf06l.lib
+└─ images/
+    ├─ Circuit_on_Breadboard.jpg
+    ├─ Laboratory_Instrumentation.jpg
+    ├─ Measured_Data_Table.png
+    └─ Oscilloscope_Signals.jpg
 ```
 
 * `Boost_Converter.asc` → Base circuit for sizing and CCM verification

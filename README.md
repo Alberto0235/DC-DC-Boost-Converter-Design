@@ -43,7 +43,7 @@ The following professional instruments were employed for circuit testing and cha
 
 
 
-![Uploading Equipment.jpg…]()
+![Equipment](https://github.com/user-attachments/assets/6fc4b627-11d3-4b46-b8af-b71e37f9eefd)
 
 
 

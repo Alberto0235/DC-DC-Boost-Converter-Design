@@ -1,6 +1,3 @@
-
----
-
 # ⚡ DC-DC Boost Converter: Design, Simulation, and Implementation
 
 **Course:** Power Electronics Laboratory  
@@ -102,13 +99,13 @@ DC-DC-Boost-Converter-Design/
 ├─ LICENSE                                 # MIT License
 ├─ README.md                               # This file
 ├─ Simulations/
-│   ├─ Boost_Converter.asc                 # Nominal Boost Converter schematic
+│   ├─ Boost_Converter.asc                 # Boost Converter schematic
 │   ├─ Boost_Converter_With_Snubber.asc    # Boost Converter with RC Snubber
 │   └─ Components/
 │       ├─ 1400series.lib
 │       ├─ MBR760.txt
 │       └─ stp16nf06l.lib
-└─ images/
+└─ Images/
     ├─ Circuit_on_Breadboard.jpg
     ├─ Laboratory_Instrumentation.jpg
     ├─ Measured_Data_Table.png
@@ -125,5 +122,3 @@ DC-DC-Boost-Converter-Design/
 
 * **Source Code and Simulation Files:** MIT License
 * **Technical Report and Documentation:** CC BY 4.0 (Creative Commons Attribution 4.0 International)
-
----
